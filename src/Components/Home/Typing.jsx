@@ -8,13 +8,13 @@ const Typing = () => {
           <span>Freelancer</span>
         </li>
         <li>
-          <span>Full Stack & MERN Stack Developer</span>
+          <span>Full & MERN Stack Dev</span>
         </li>
         <li>
           <span>UI/UX Designer</span>
         </li>
         <li>
-          <span>Front End & Back End Developer</span>
+          <span>Front & Back End Dev</span>
         </li>
         <li>
           <span>Flutter Developer</span>
