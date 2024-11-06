@@ -16,7 +16,7 @@ const Title = () => {
         <div className="btn-container">
           <button className="btn btn-color-2">
             <a
-              href="https://drive.google.com/file/d/1_WJnn94YRMf-PeWExYnq3nXCU93Ebpg2/view?usp=drive_link"
+              href="https://drive.google.com/file/d/1Qn_7Qjvf8Iw5QrSfOFW_LO6M8LcJRQzE/view?usp=sharing"
               target="_blank"
             >
               Download CV
