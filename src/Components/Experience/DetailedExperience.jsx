@@ -100,6 +100,19 @@ const DetailedExperience = ({ setSelectedTab, items }) => {
           results efficiently.
           <br />
           <br />
+          <h2>MERN Stack Developer Intern | Zidio Development | MAR-MAY, 2024</h2>
+          - Developed scalable web applications using the MERN Stack, enhancing the user experience and functionality  
+          <br />- Executed multiple high-impact projects, Implemented User Feedback Mechanisms 
+          <br />- Collaborated with design team to create responsive and user-friendly interfaces and Solutions. 
+          <br />
+          <br />
+          <h2>Backend Developer Intern | Edorbit | MAY 2024 -CURRENT</h2>
+          - Revamped backend infrastructure for an Ai-Powered Learning app,extending features to an online learning platform using 
+React and TypeScript 
+          <br />- Optimized SQL databases on Google Cloud, achieving a improvement in data retrieval efficiency. 
+          <br />- Introduced new functionalities and resolved bugs, elevating user satisfaction .
+          <br />
+          <br />
           <h3>Technology Known</h3>
           <br />
           <div className="logos exp-tech">
