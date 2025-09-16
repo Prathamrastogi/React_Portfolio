@@ -106,7 +106,7 @@ const DetailedExperience = ({ setSelectedTab, items }) => {
           <br />- Collaborated with design team to create responsive and user-friendly interfaces and Solutions. 
           <br />
           <br />
-          <h2>Backend Developer Intern | Edorbit | MAY-NOV 2025</h2>
+          <h2>Backend Developer Intern | Edorbit | MAY-NOV 2024</h2>
           - Revamped backend infrastructure for an Ai-Powered Learning app,extending features to an online learning platform using 
 React and TypeScript 
           <br />- Optimized SQL databases on Google Cloud, achieving a improvement in data retrieval efficiency. 
