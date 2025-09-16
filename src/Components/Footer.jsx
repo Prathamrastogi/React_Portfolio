@@ -35,7 +35,7 @@ const Footer = ({ selectedTab, setSelectedTab }) => {
           </ul>
         </div>
       </nav>
-      <p>Copyright &#169; 2024 Pratham Rastogi. All Rights Reserved.</p>
+      <p>Copyright &#169; 2025 Pratham Rastogi. All Rights Reserved.</p>
     </footer>
   );
 };
