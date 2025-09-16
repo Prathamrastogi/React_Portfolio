@@ -106,11 +106,18 @@ const DetailedExperience = ({ setSelectedTab, items }) => {
           <br />- Collaborated with design team to create responsive and user-friendly interfaces and Solutions. 
           <br />
           <br />
-          <h2>Backend Developer Intern | Edorbit | MAY 2024 -CURRENT</h2>
+          <h2>Backend Developer Intern | Edorbit | MAY 2024 - NOV 2025</h2>
           - Revamped backend infrastructure for an Ai-Powered Learning app,extending features to an online learning platform using 
 React and TypeScript 
           <br />- Optimized SQL databases on Google Cloud, achieving a improvement in data retrieval efficiency. 
           <br />- Introduced new functionalities and resolved bugs, elevating user satisfaction .
+          <br />
+          <br />
+          <h2>Node.js Developer Intern | Healthtrip | MAR 2025 - CURRENT</h2>
+          - Developed scalable REST APIs in NestJS, migrating legacy PHP and Node.js modules to a modern backend architecture.  
+          <br />- Integrated third-party platforms like CleverTap and WATI to automate messaging and improve engagement.  
+          <br />- Implemented cron jobs for automated email workflows across different operations.
+          <br />- Built and tested dynamic modules for patient onboarding, property listings, and notifications. 
           <br />
           <br />
           <h3>Technology Known</h3>
